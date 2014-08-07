@@ -1,0 +1,32 @@
+{
+  "name": "everyauth-twitter",
+  "version": "0.0.0",
+  "description": "Twitter OAuth plugin for everyauth",
+  "main": "index.js",
+  "dependencies": {
+    "everyauth-oauth": "0.0.x"
+  },
+  "peerDependencies": {
+    "everyauth": "0.5.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everyauth/twitter"
+  },
+  "keywords": [
+    "Twitter",
+    "OAuth",
+    "login",
+    "auth",
+    "everyauth"
+  ],
+  "author": "Brian N Noguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everyauth/twitter/issues"
+  },
+  "homepage": "https://github.com/everyauth/twitter"
+}
